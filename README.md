@@ -21,7 +21,7 @@
 ## Clonar repositório (Visual Studio Code)
 * <b>Primeiro passo:</b> Crie uma pasta aonde quiser
 * <b>Segundo passo:</b> Abra-a no Vs Code como um folder
-* <b>Terceiro passo:</b> Clone o repositório: <i>git clone https://github.com/LUIZAUGUSTO1113/crud-api.com.git</i>
+* <b>Terceiro passo:</b> Clone o repositório: <i>git clone https://github.com/LUIZAUGUSTO1113/crud-api.git</i>
 * <b>Quarto passo:</b> Abra o terminal dentro do Vs code e digite: <i>dir</i>
 * <b>Quinto passo:</b> Agora digite: <i>cd crud-api</i>
 * <b>Sexto passo:</b> Crie uma venv pelo terminal: <i>python -m venv venv</i>
