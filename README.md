@@ -19,14 +19,34 @@
     * http://127.0.0.1:8000/api/books/
 
 ## Clonar repositório (Visual Studio Code)
-* <b>Primeiro passo:</b> Crie uma pasta aonde quiser
-* <b>Segundo passo:</b> Abra-a no Vs Code como um folder
-* <b>Terceiro passo:</b> Clone o repositório: <i>git clone https://github.com/LUIZAUGUSTO1113/crud-api.git</i>
-* <b>Quarto passo:</b> Abra o terminal dentro do Vs code e digite: <i>dir</i>
-* <b>Quinto passo:</b> Agora digite: <i>cd crud-api</i>
-* <b>Sexto passo:</b> Crie uma venv pelo terminal: <i>python -m venv venv</i>
-* <b>Sétimo passo:</b> Ative a venv: <i>venv\Scripts\activate</i>
-* <b>Oitavo passo:</b> Instale o django: <i>pip install -r requirements.txt</i>
-* <b>Nono passo:</b> Inicie o site: <i>python manage.py runserver</i>
-
+* <b>Primeiro passo:</b> Crie uma pasta aonde quiser.
+* <b>Segundo passo:</b> Abra-a no Visual Studio Code como um folder.
+* <b>Terceiro passo:</b> Clone o repositório:
+   ```bash
+   git clone https://github.com/LUIZAUGUSTO1113/crud-api.git
+   ```
+* <b>Quarto passo:</b> Abra o terminal dentro do Vs code e digite:
+   ``` bash
+   dir
+   ```
+* <b>Quinto passo:</b> Agora digite:
+   ``` bash
+   cd crud-api
+   ```
+* <b>Sexto passo:</b> Crie uma venv pelo terminal:
+   ``` bash
+   python -m venv venv
+   ```
+* <b>Sétimo passo:</b> Ative a venv:
+  ``` bash
+  venv\Scripts\activate
+  ```
+* <b>Oitavo passo:</b> Instale os requisitos:
+  ``` bash
+  pip install -r requirements.txt
+  ```
+* <b>Nono passo:</b> Inicie o site:
+  ``` bash
+  python manage.py runserver
+  ```
 ## @ 2024 1113
